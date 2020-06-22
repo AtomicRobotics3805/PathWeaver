@@ -1,0 +1,10 @@
+{
+    "game" : "Skystone",
+    "field-image" : "2020-Skystone-Field.png",
+    "field-corners": {
+        "top-left" : [6, 6],
+        "bottom-right" : [750, 750]
+    },
+    "field-size" : [12, 12],
+    "field-unit" : "foot"
+}
